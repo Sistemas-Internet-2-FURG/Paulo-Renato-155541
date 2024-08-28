@@ -31,7 +31,9 @@ Configuração e Execução
  - Clone o repositório do projeto.
  - Navegue até o diretório do projeto e execute o comando:
 '''docker-compose up''' -> O banco de dados estará disponível nas portas definidas no docker-compose.yml (5432).
+
 '''dotnet restore'''
+
 '''dotnet run'''
 
 ## Migrações de Banco de Dados
